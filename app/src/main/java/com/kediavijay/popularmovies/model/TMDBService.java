@@ -1,0 +1,7 @@
+package com.kediavijay.popularmovies.model;
+
+/**
+ * Created by vijaykedia on 01/06/16.
+ */
+public class TMDBService {
+}

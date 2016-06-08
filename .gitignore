@@ -1,0 +1,9 @@
+# Idea/AndroidStudio generated files
+.idea
+UdacityProject2_PopularMovies.iml
+app/app.iml
+
+# Gradle generated files
+.gradle
+build
+local.properties
