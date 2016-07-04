@@ -7,3 +7,6 @@ app/app.iml
 .gradle
 build
 local.properties
+
+# TODO : Need to remove this later
+gradle.properties

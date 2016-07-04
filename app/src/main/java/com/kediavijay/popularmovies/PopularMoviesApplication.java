@@ -39,7 +39,7 @@ public class PopularMoviesApplication extends Application {
     }
 
     private void isDebugOrReleaseMode() {
-        final String packageName = getPackageName();
+        final String packageName = BuildConfig.APPLICATION_ID;
         isDebug = packageName.endsWith("debug");
     }
 }
